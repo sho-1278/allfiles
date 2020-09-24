@@ -1,4 +1,4 @@
-?php
+<?php
 require_once("pdo.php");
 if(isset($_POST['username'])&&isset($_POST['email'])&&isset($_POST['stream'])&&isset($_POST['year'])&&isset($_POST['query'])){
   $sql="INSERT INTO responses(username, email, stream, year, query) VALUES ( :placeholder1, :placeholder2, :placeholder3, :placeholder4, :placeholder5 )";
