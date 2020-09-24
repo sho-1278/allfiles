@@ -32,7 +32,7 @@ if(isset($_POST['username'])&&isset($_POST['email'])&&isset($_POST['stream'])&&i
 </head>
 <body>
     <center>
-  <h2 style="text-transform: uppercase;">Queries resolving with Jee query</h3>
+  <h2 style="text-transform: uppercase;">Queries resolving with Jee query</h2>
   <fieldset><legend>General Guidelines</legend>
     <ul><li>Try to ask the query as crisp and short as possible and genuine</li>
       <li>Reply will be given for sure via mail within 24-48 hours</li>
